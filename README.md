@@ -19,10 +19,6 @@ NVIDIA T4/RTX 30xx:
 
 Use bitsandbytes for 8-bit quantization to save memory.
 
-Configuration: 
-
-Ensure the model runs in FP16 or 8-bit mode for optimal performance.
-
 ## License
 
 This model is a fine-tuned version of LLaMA-2, subject to the LLaMA-2 License Agreement.
